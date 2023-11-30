@@ -1,5 +1,5 @@
 <?php
-$Dev = "916165019";
+$Dev = "1488114134";
 if($data=="gparabi"){
 if($you_=="creator" or $you_=="Devistrator"or $cllfor==$sudo){
 file_put_contents("data/".$cllchatid."/lang.txt","arabi");
@@ -15,7 +15,7 @@ bot('editmessagetext',[
 [['text'=>" الاوامر 🛠",'callback_data'=>"bag"]],
 [['text'=>" اوامر الردود🧸 ",'callback_data'=>"🔙"]],
 [['text'=>"الاوامر الكتابيه🧸 ",'callback_data'=>"he"]],
-[['text'=> "قناة السورس 💡" ,'url'=>"http://telegram.me/botatiiii"]],
+[['text'=> "قناة السورس 💡" ,'url'=>"http://telegram.me/Veevvw"]],
 ]
 ])]);}}
 if($data=="gparabi"){
@@ -33,7 +33,7 @@ bot('editmessagetext',[
 [['text'=>" الاوامر 🛠",'callback_data'=>"bag"]],
 [['text'=>" اوامر الردود🧸 ",'callback_data'=>"🔙"]],
 [['text'=>"الاوامر الكتابيه🧸 ",'callback_data'=>"he"]],
-[['text'=> "قناة السورس 💡" ,'url'=>"http://telegram.me/botatiiii"]],
+[['text'=> "قناة السورس 💡" ,'url'=>"http://telegram.me/Veevvw"]],
 ]
 ])]);}}
    
@@ -85,7 +85,7 @@ bot('sendMessage',[
    'reply_markup'=>json_encode([
       'inline_keyboard'=>[
 	   
-       [['text'=>"اضفني الى مجموعتك ،🧸", 'url'=>"http://t.me/smsmhmsbot?startgroup=new"]],
+       [['text'=>"اضفني الى مجموعتك ،🧸", 'url'=>"http://t.me/fza0bot?startgroup=new"]],
 [['text'=> "قناة السورس 💡" ,'url'=>"http://telegram.me/botatiiii"]],
 ]
 ])]);}}
@@ -339,7 +339,7 @@ if ($you_ == "creator" or $you_ == "Devistrator" or $cllfor == $sudo  ){
    'reply_markup'=>json_encode([
       'inline_keyboard'=>[
 	  [
-	  ['text'=> "قناة السورس 💡" ,'url'=>"http://telegram.me/botatiiii"]
+	  ['text'=> "قناة السورس 💡" ,'url'=>"http://telegram.me/veevvw"]
 	  ],
 	  	 [
 		['text'=>"العودة 🔙",'callback_data'=>"bagg"]
