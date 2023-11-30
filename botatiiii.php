@@ -1,6 +1,6 @@
 <?php
 
-$token = "tok";// توكنك 
+$token = "6243993552:AAF2KXc1toaLD8fX0SrbsquQss6n4waVpwE";// توكنك 
 
 define('API_KEY',$token);
 echo file_get_contents("https://api.telegram.org/bot" . API_KEY . "/setwebhook?url=" . $_SERVER['SERVER_NAME'] . "" . $_SERVER['SCRIPT_NAME']);
